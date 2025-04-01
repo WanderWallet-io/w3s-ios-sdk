@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
   # Dependency
   s.dependency 'Alamofire', '5.9.0'
   s.dependency 'DeviceKit', '5.2.0'
-  s.dependency 'SDWebImage', '5.18.10'
+  s.dependency 'SDWebImage', '>=5.18.10'
   s.dependency 'IQKeyboardManagerSwift', '7.0.1'
   s.dependency 'SnapKit', '5.7.1'
   s.dependency 'BigInt', '5.2.0'
