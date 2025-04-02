@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.homepage = 'https://www.circle.com/web3-services'
   s.author = 'CIRCLE'
   # Source will point to your fork when used in the main Podfile
-  s.source = { :git => "URL_TO_YOUR_FORKED_REPOSITORY", # Placeholder
+  s.source = { :git => "https://github.com/WanderWallet-io/w3s-ios-sdk.git", # Placeholder
                :tag => '1.1.9-staticfix' } # Example tag
 
   s.platform = :ios, '13.0'
